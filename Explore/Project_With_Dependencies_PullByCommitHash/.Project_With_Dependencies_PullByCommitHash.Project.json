@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "fnn0KCbuwi4hCY55YICMex",
-    "name" : "Project_With_Dependencies_PullByCommitHash_Renamed",
+    "name" : "Project_With_Dependencies_PullByCommitHash",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
